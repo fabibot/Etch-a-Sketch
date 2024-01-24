@@ -1,1 +1,22 @@
 
+.menu {
+    height: 40px;
+    padding: 20px;
+    margin: 15px;
+}
+
+button {
+    background-color: wheat;
+    color: black;
+    font-family: DejaVu Sans Mono, monospace;
+    width : 240px;
+    height: 40px;
+    border-color: bisque;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+#drawingZone {
+    width: 780px;
+    height: 780px;
+}
